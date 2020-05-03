@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090826033938",
+    "firebase_url": "https://qnote-f3040.firebaseio.com",
+    "project_id": "qnote-f3040",
+    "storage_bucket": "qnote-f3040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090826033938:android:581f2f1950e140bc91b1cb",
+        "android_client_info": {
+          "package_name": "cs4381.edu.utep.cs.semester_project_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090826033938-26ab1l7g04869105rikntq9c2qsk15fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK_aTr_AZfQEUPe_P--MwS08BIAQytEOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090826033938-26ab1l7g04869105rikntq9c2qsk15fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
